@@ -20,4 +20,4 @@ My name is Pierce. I'm a student with an interest in software development.
 
 ## Github Stats 📊
 
-![latelylk's github stats](https://github-readme-stats.vercel.app/api?username=latelylk&show_icons=true&theme=dracula)
+![latelylk's github stats](https://github-readme-stats.vercel.app/api?username=latelylk&count_private=true&show_icons=true&theme=dracula)
