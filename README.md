@@ -20,4 +20,4 @@ My name is Ethan Krein. I'm a student with an interest in software development.
 
 ## Github Stats 📊
 
-![ethankrein's github stats](https://github-readme-stats.vercel.app/api?username=ethankrein&show_icons=true&theme=dracula)
+![ethankrein's github stats](https://github-readme-stats.vercel.app/api?username=ethankrein&count_private=true&show_icons=true&theme=dracula)
